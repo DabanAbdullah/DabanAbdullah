@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daban Salahaddin Abdullah</h1>
 <h3 align="center">A passionate Web Engineer from Germany</h3>
 
+<h3 align="center"> dedicated individual with an unwavering passion for the IT world and web development.</h3>
+
 - 🔭 I’m currently working on **My master thesis - Input Data Representation Strategies in Fullscreen Chatbot Interfaces**
 
 - 👨‍💻 All of my projects are available at [https://dabanabdullah.online/](https://dabanabdullah.online/)
